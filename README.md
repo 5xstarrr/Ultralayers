@@ -1,6 +1,6 @@
-# Ultra Layers
+# LazyLayers
 
-Ultra Layers is a modern CEP extension for Adobe After Effects (2021+) built to enhance speed, control, and workflow efficiency.
+LazyLayers is a modern CEP extension for Adobe After Effects (2021+) built to enhance speed, control, and workflow efficiency.
 
 Inspired by tools like Easy Layers — but redesigned with a cleaner, more advanced approach — Ultra Layers focuses on automation, organization, and creative layer generation inside a minimal, glass-inspired interface.
 
